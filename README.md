@@ -1,5 +1,7 @@
 # Oxcel - All-in-One Student Dashboard
 
+![Oxcel App Image](https://i.ibb.co/2YjD6gM/oxceldashboard.png)  <!-- Replace with your app's image link -->
+
 **Oxcel** is a comprehensive student dashboard web application designed to help students stay organized, track their progress, and improve productivity throughout their academic journey.
 
 With a clean and user-friendly interface, Oxcel integrates multiple tools to streamline academic tasks into one platform. Whether it's managing courses, tracking assignments, communicating with peers, calculating grades, or scheduling events with the integrated calendar, **Oxcel** has it all.
@@ -83,6 +85,17 @@ This project is licensed under the **[Creative Commons Attribution-NonCommercial
 > **Important**: Contributions to this project are limited to **suggestions**. You are not allowed to modify, distribute, or create derivative works of the software. Changes to the codebase are made only by the project maintainers.
 
 For more information, see the full [CC BY-NC-ND License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+---
+
+## Attribution
+
+Oxcel uses the following icon libraries:
+
+- **[Lineicons](https://lineicons.com/)**: For various icons used throughout the app.
+- **[RemixIcon](https://remixicon.com/)**: For additional icons used for user interface components.
+
+Please make sure to check out their websites and credit their work properly.
 
 ---
 
